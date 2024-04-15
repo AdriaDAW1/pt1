@@ -1,6 +1,6 @@
 package com.example;
 
-public class HoteCategory {
+public class HotelCategory {
 
   protected String estrellas;
   
